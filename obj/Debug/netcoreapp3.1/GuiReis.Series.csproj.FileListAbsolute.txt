@@ -1,0 +1,13 @@
+C:\Users\guilh\Documents\Csharp-examples\GuiReis.Series\bin\Debug\netcoreapp3.1\GuiReis.Series.exe
+C:\Users\guilh\Documents\Csharp-examples\GuiReis.Series\bin\Debug\netcoreapp3.1\GuiReis.Series.deps.json
+C:\Users\guilh\Documents\Csharp-examples\GuiReis.Series\bin\Debug\netcoreapp3.1\GuiReis.Series.runtimeconfig.json
+C:\Users\guilh\Documents\Csharp-examples\GuiReis.Series\bin\Debug\netcoreapp3.1\GuiReis.Series.runtimeconfig.dev.json
+C:\Users\guilh\Documents\Csharp-examples\GuiReis.Series\bin\Debug\netcoreapp3.1\GuiReis.Series.dll
+C:\Users\guilh\Documents\Csharp-examples\GuiReis.Series\bin\Debug\netcoreapp3.1\GuiReis.Series.pdb
+C:\Users\guilh\Documents\Csharp-examples\GuiReis.Series\obj\Debug\netcoreapp3.1\GuiReis.Series.csprojAssemblyReference.cache
+C:\Users\guilh\Documents\Csharp-examples\GuiReis.Series\obj\Debug\netcoreapp3.1\GuiReis.Series.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Csharp-examples\GuiReis.Series\obj\Debug\netcoreapp3.1\GuiReis.Series.AssemblyInfo.cs
+C:\Users\guilh\Documents\Csharp-examples\GuiReis.Series\obj\Debug\netcoreapp3.1\GuiReis.Series.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Csharp-examples\GuiReis.Series\obj\Debug\netcoreapp3.1\GuiReis.Series.dll
+C:\Users\guilh\Documents\Csharp-examples\GuiReis.Series\obj\Debug\netcoreapp3.1\GuiReis.Series.pdb
+C:\Users\guilh\Documents\Csharp-examples\GuiReis.Series\obj\Debug\netcoreapp3.1\GuiReis.Series.genruntimeconfig.cache
